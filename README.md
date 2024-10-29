@@ -13,16 +13,6 @@ This project leverages the AdaBoost algorithm and OpenCV for image classificatio
 - Python 3.x
 - Required libraries: OpenCV, NumPy, scikit-learn, and joblib.
 
-### Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/progspac-vnn/Adaboost-Object-Detection.git
-
-2. Install Required Packages
-   ```bash
-   pip install -r requirements.txt
-
 ### Usage
 
 1. **Train The Model**: Place your dataset in the train folder and execute the training script to train and save the model.
@@ -36,6 +26,11 @@ This project leverages the AdaBoost algorithm and OpenCV for image classificatio
 **requirements.txt**: Required libraries and dependencies.
 
 ### Results 
+#### Input Image:
+![image](https://github.com/user-attachments/assets/cd6ccf31-e43b-4678-b996-38dd62e696a8)
+
+#### Output:
+![image](https://github.com/user-attachments/assets/3efc9eb7-a46a-4122-aed3-7c48b4beca03)
 
 
 
